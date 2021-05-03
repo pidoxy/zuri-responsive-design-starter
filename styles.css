@@ -487,7 +487,7 @@ div.footer h6 {
     }
     div.nav-bar {
         justify-content: space-between;
-        padding: 1rem 6rem;
+        padding: 1rem 2rem;
         width: 100vw;
         background: #304353;
     }
